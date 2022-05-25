@@ -1,6 +1,6 @@
 {
-	"name": "CN HELPER TEST",
-	"description": "CN Helper TEST",
+	"name": "helper",
+	"description": "helper",
 	"update_timestamp": 1647246700,
-	"url_format": "https://raw.githubusercontent.com/harenk1337/gshelper/main/dianwei/%map%.json"
+	"url_format": "https://raw.githubusercontent.com/harenk1337/gshelper/main/helper/%map%.json"
 }
